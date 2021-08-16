@@ -1,0 +1,14 @@
+/* 
+  ENG.strings
+  languageTest
+
+  Created by Andrey Kim on 17.08.2021.
+  
+*/
+"Главная" = "Main";
+"Введите номер телефона" = "Enter your phone number";
+"Введите ваше имя" = "enter your name";
+"Введите ваше фамилия" = "Please enter your last name";
+"Русский" = "Russian";
+"Английский" = "English";
+"Казахский" = "Kazakh";
